@@ -1,32 +1,10 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <title>About</title>
-    <link rel="stylesheet" href="/assets/css/styles.css">
-  </head>
-  <body>
-    <nav>
-    
-      <a href="/" >Home</a>
-    
-      <a href="/about.html" class="current">About</a>
-    
-      <a href="/blog.html" >Blog</a>
-    
-      <a href="/staff.html" >Staff</a>
-    
-  </nav>
-    <h1 id="about-page">About page</h1>
+I"<h1 id="about-page">About page</h1>
 
 <p>This page tells you a little bit about me.</p>
 
-<p><img src="assets/images/pic.jpeg" alt="" /></p>
 <h2 id="national-yang-ming-chiao-tung-university">National Yang Ming Chiao Tung University</h2>
 <h3 id="bachelor-of-electrical-and-computer-engineering">Bachelor of Electrical and Computer Engineering</h3>
 <h3 id="master-of-electrical-and-computer-engineering">Master of Electrical and Computer Engineering</h3>
 <h3 id="research-in-autonomous-vehicle">Research in Autonomous Vehicle</h3>
 <h2 id="guitar-player">Guitar player</h2>
-
-  </body>
-</html>
+:ET
